@@ -12,7 +12,7 @@
 # Описание проекта:
 
 1. Проект разработан на Python версии 3.12 в IDE PyCharm.
-2. Репозиторий проекта доступен на [Github](https://github.com/DolceDarina/Notes_Python).
+2. Репозиторий проекта доступен на [Github](https://github.com/DolceDarina/NotesPython).
 3. Изменения вносились через Pull Requests из рабочей ветки `master` в основную ветку `master`.
 4. Приложение "Журнал заметок" предоставляет следующие функции:
    - Просмотр всех заметок
